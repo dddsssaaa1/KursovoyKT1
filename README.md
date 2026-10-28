@@ -50,7 +50,7 @@
 
 ### Блок-схема алгоритма (КТ1)
 
-![Блок-схема КТ1](Kursach_KT1_AlgSchema.svg)
+![Блок-схема КТ1](Kursach_KT1_AlgSchema.png)
 
 ---
 
